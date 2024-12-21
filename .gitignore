@@ -1,0 +1,12 @@
+# Ignore .idea directory
+.idea/
+
+# Ignore muistio.txt file
+muistio.txt
+
+# Default files to be ignored inside .idea directory
+.idea/shelf/
+.idea/workspace.xml
+.idea/httpRequests/
+.idea/dataSources/
+.idea/dataSources.local.xml
