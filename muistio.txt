@@ -1,9 +1,0 @@
-To make your data collection more generalizable
- to different board sizes and variants of Minesweeper,
-  you can record cell positions as row and column indices
-  rather than pixel coordinates.
-  This way, the AI learns patterns based on logical
-  board positions rather than specific screen coordinates.
-  When you move to a different board (with different pixel
-  dimensions or different screen locations), you can use the
-   same logic as long as you can determine the cell size and indexing.
