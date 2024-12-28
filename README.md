@@ -11,6 +11,13 @@ The ultimate goal of BombSquadron is to create a robust AI capable of consistent
 - Collecting detailed game state data to train machine learning models.
 - Developing AI strategies to minimize random guesses and optimize win rates.
 
+Here is a video demonstration:
+
+https://github.com/user-attachments/assets/b9e75409-8132-49ba-a01f-8452ed0c5ff1
+
+tion:
+
+
 ---
 
 ## **Features**
